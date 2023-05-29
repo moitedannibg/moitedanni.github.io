@@ -4,11 +4,12 @@ title:  "Имаш какво да криеш"
 author: Теодор Дерменджиев
 categories: [ поверителност, лични данни, лични права ]
 image: assets/images/books-hide.jpeg
+imageTitle: "Photo by <a href=\"https://unsplash.com/@usinglight?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText\">Stefan Steinbauer</a> on <a href=\"https://unsplash.com/photos/HK8IoD-5zpg?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText\">Unsplash</a>"
 tags: [sticky, featured]
 ---
 
 
-Photo by <a href="https://unsplash.com/@usinglight?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Stefan Steinbauer</a> on <a href="https://unsplash.com/photos/HK8IoD-5zpg?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+
   
 
 Аргументът "нищо да крия" отдавна се използва от правителства и организации, за да подценят значение на поверителността и да оправдаят широко разпространеното наблюдение или практики за събиране на данни. Има няколко причини, поради които този аргумент е толкова привлекателен и ефективен за убеждаването на хората, че поверителността не е важна.

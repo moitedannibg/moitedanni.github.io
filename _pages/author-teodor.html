@@ -1,5 +1,5 @@
 ---
-title: "Sal"
+title: "Teodor"
 layout: default
 permalink: "/author-teodor.html"
 ---
@@ -13,11 +13,11 @@ permalink: "/author-teodor.html"
                 <p class="excerpt">{{ site.authors.teodor.bio }}</p>
             </div>
             <div class="col-md-3 text-right">
-                <img alt="{{ site.authors.teodor.name }}" src="{{site.baseurl}}/{{ site.authors.sal.avatar }}" class="rounded-circle" height="100" width="100">
+                <img alt="{{ site.authors.teodor.name }}" src="{{site.baseurl}}/{{ site.authors.teodor.avatar }}" class="rounded-circle" height="100" width="100">
             </div>
         </div>
         <h4 class="font-weight-bold spanborder"><span>Posts by {{page.title}}</span></h4>
-            {% assign posts = site.posts | where:"author","teodor" %}
+            {% assign posts = site.posts | where:"author","Теодор Дерменджиев" %}
             {% for post in posts %}
             {% include main-loop-card.html %}
             {% endfor %}

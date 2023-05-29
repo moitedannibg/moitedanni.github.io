@@ -5,7 +5,7 @@ logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
 baseurl: ''
 disqus: 'demowebsite'
-email: 'wowthemesnet@gmail.com'
+email: 'tdermendjievft@gmail.com@gmail.com'
 mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
 
 include: ["_pages"]
@@ -21,11 +21,11 @@ plugins:
 authors:
     teodor:
       name:           Teodor
-      site:           https://www.wowthemes.net
+      site:           https://www.dermendjiev.com
       avatar:         /assets/images/avatar1.jpg
-      bio:            "Hi, I am Teodor, the author of Mundana, the theme you're currently previewing. I hope you like it!"
-      email:          wowthemesnet@gmail.com
-      twitter:        https://twitter.com/wowthemesnet
+      bio:            "Здравейте, казвам се Теодор и съм създател на moitedanni.bg. Юрист по образование и програмист от 10 години, създадох този сайт, за да споделям знанията си в областта на защитата на личните данни и технологиите."
+      email:          tdermendjievft@gmail.com
+      twitter:        https://twitter.com/nsteodor
  
 # Defaults
 defaults:

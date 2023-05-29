@@ -4,11 +4,9 @@ title:  "Privacy by design или защита на данните по подр
 author: Теодор Дерменджиев
 categories: [ поверителност, софтуер, защита, регулации ]
 image: assets/images/privacy-by-design.jpeg
+imageTitle: Photo by <a href="https://unsplash.com/@sigmund?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Sigmund</a> on <a href="https://unsplash.com/s/photos/schema?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
 tags: [поверителност, софтуер, защита, регулации ]
 ---
-
-Photo by <a href="https://unsplash.com/@sigmund?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Sigmund</a> on <a href="https://unsplash.com/s/photos/schema?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
-  
 
 В свят, където личните данни са станали ценен актив, осигуряването на поверителност е от най-голямо значение. Един от подходите за защита на поверителността на потребителите е чрез "Поверителност по проектиране", концепция, която подчертава интегрирането на съображенията за поверителност в самото сърце на дизайна на продукта и системата. В тази статия ще разгледаме важността на Поверителността по проектиране, ще споделим примери за добър и лош дизайн на поверителност и ще предоставим насоки как да я приложим ефективно.
 

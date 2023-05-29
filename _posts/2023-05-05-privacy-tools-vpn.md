@@ -4,12 +4,9 @@ title:  "Privacy инструменти: VPN"
 author: Теодор Дерменджиев
 categories: [ поверителност, софтуер, инструменти, vpn ]
 image: assets/images/vpn.jpeg
+imageTitle: Photo by <a href="https://unsplash.com/ko/@lagopett?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Petter Lagson</a> on <a href="https://unsplash.com/photos/VmMimaq445E?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
 tags: [vpn, софтуер, инструменти]
 ---
-
-Photo by <a href="https://unsplash.com/ko/@lagopett?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Petter Lagson</a> on <a href="https://unsplash.com/photos/VmMimaq445E?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
-  
-
 Във все по-свързания свят защитата на вашата онлайн поверителност става все по-важна. Един от ефективните начини да го направите е чрез използване на виртуална частна мрежа (VPN). В тази статия ще обясним какво представляват VPN-ите, как работят и ще обсъдим предимствата от използването на VPN. Също така ще препоръчаме някои от най-добрите VPN услуги днес, като ExpressVPN, NordVPN и ProtonVPN.
 
 Какво представляват VPN-ите и как работят?
