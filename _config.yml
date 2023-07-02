@@ -21,12 +21,44 @@ plugins:
 authors:
     teodor:
       name:           Teodor
-      site:           https://www.dermendjiev.com
-      avatar:         /assets/images/avatar1.jpg
+      site:           http://www.dermendjiev.com
+      avatar:         assets/images/teodor-profile.jpeg
       bio:            "Здравейте, казвам се Теодор и съм създател на moitedanni.bg. Юрист по образование и програмист от 10 години, създадох този сайт, за да споделям знанията си в областта на защитата на личните данни и технологиите."
       email:          tdermendjievft@gmail.com
       twitter:        https://twitter.com/nsteodor
- 
+
+tools:
+    privacybadger:
+      name:           Privacy Badger
+      description:    Privacy Badger е добавка за браузъра, която не позволява на рекламодателите да ви следят тайно какво правите в интернет.
+      site:           https://privacybadger.org/
+      avatar:         https://www.eff.org/files/styles/highlight/public/banner_library/privacy-badger-logo.png?itok=Z6__d7aN
+    coveryourtracks:
+      name:           Cover Your Tracks
+      description:    Cover Your Tracks анализира колко добре браузърът ви и добавките за него ви защитават срещу онлайн техники за проследяване.
+      site:           https://coveryourtracks.eff.org/
+      avatar:         https://www.eff.org/files/banner_library/cover-your-tracks-no-tagline.jpeg
+    brave:
+      name:           Brave 
+      description:    Brave е браузър, който акцентира върху поверителността и скоростта, блокирайки автоматично нежелано рекламно съдържание и следещи технологии.
+      site:           https://brave.com/
+      avatar:         https://scontent-otp1-1.xx.fbcdn.net/v/t39.30808-6/299880786_384693000483965_5585896847330825510_n.png?_nc_cat=110&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=oob-Qh-byOUAX9kZ2M4&_nc_ht=scontent-otp1-1.xx&oh=00_AfDsti8g6EhNzLvk3WqH0cz-Ep9-GcZ_itMuDI6pH2lvqQ&oe=64A54E59
+    protonmail:
+      name:           ProtonMail
+      description:    ProtonMail е сигурна електронна поща, която се фокусира върху защитата и конфиденциалността на вашата лична информация.
+      site:           https://proton.me/
+      avatar:         https://proton.me/static/20516d7ff0028940fc82f628f55d6fe6/proton-logo-p.svg
+    adblock:
+      name:           AdBlock
+      description:    AdBlock е добавка за браузър, която блокира реклами, за да предостави по-чист и безпроблемен потребителски опит при сърфиране в интернет.
+      site:           https://getadblock.com/
+      avatar:         https://getadblock.com/images/platforms/chrome/hero_image_exportable.svg
+    signal:
+      name:           Signal
+      description:    Signal е приложение за съобщения, което осигурява висока степен на сигурност и поверителност, като криптира всички вашите разговори.
+      site:           https://signal.org/
+      avatar:         https://theme.zdassets.com/theme_assets/841909/92950fb3c1be711b8debb7b89412cb17a5d95f0c.png  
+
 # Defaults
 defaults:
 
